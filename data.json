@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": 5,
+      "name": "Emily Davisaaaa",
+      "username": "emilydavis",
+      "email": "emilydavis@example.com",
+      "phone": "4567890123"
+    },
+    {
+      "id": 6,
+      "name": "David Wilson",
+      "username": "davidwilson",
+      "email": "davidwilson@example.com",
+      "phone": "5432109876"
+    },
+    {
+      "id": 7,
+      "name": "Sarah Johnson",
+      "username": "sarahjohnson",
+      "email": "sarahjohnson@example.com",
+      "phone": "1112223333"
+    },
+    {
+      "id": 8,
+      "name": "Robert Miller",
+      "username": "robertmiller",
+      "email": "robertmiller@example.com",
+      "phone": "9998887777"
+    },
+    {
+      "id": 10,
+      "name": "William Anderson",
+      "username": "williamanderson",
+      "email": "williamanderson@example.com",
+      "phone": "4445556666"
+    },
+    {
+      "name": "Anam kc",
+      "email": "anamkhatri10@gmail.com",
+      "phone": "6614935",
+      "id": 13
+    },
+    {
+      "name": "hellosjdahgsd ",
+      "email": "pratik@gmail.comdn ew",
+      "phone": "6621651cn jd",
+      "id": 15
+    },
+    {
+      "name": "Anam kc",
+      "email": "ram@gmail.com",
+      "phone": "1234567891",
+      "id": 16
+    }
+  ]
+}
